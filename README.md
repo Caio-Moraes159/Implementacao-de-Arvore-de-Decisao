@@ -72,10 +72,10 @@ S2 0 F
 <p>Para compilar e executar o programa, siga os passos abaixo:</p>
 <ol>
     <li>Abra o terminal ou prompt de comando.</li>
-    <li>Navegue até o diretório onde os arquivos <code>Driver.cpp</code>, <code>FreeCell.h</code> e <code>FreeCell.cpp</code> estão localizados.</li>
+    <li>Navegue até o diretório onde os arquivos <code>Driver.cpp</code>, <code>BinaryTree.h</code> e <code>BinaryTree.cpp</code> estão localizados.</li>
     <li>Compile os arquivos usando o comando:
         <pre>
-g++ Driver.cpp FreeCell.cpp -o arvore_decisao
+g++ Driver.cpp BinaryTree.cpp -o arvore_decisao
         </pre>
     </li>
     <li>Execute o programa com o comando:
